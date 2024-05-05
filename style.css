@@ -1,0 +1,149 @@
+
+nav li{
+
+
+    padding: 100px;
+    font-size: 40px;
+  
+
+font-family: 'Rubik Glitch Pop', system-ui;
+
+
+}
+table{
+border: 3px solid black;
+
+}
+tr, th{
+    color: red;
+}
+th{
+background-color: darkblue;
+
+}
+
+
+
+td{
+background-color: darkred;
+}
+nav a{
+    color:yellow;
+    text-decoration: none;
+}
+nav a:hover{
+     color:green;
+     border-radius: 100%;
+}
+body{
+background-color: green;
+}
+table{
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-left: auto;
+    width: 100%;
+}
+td, th{
+border: 2px solid gray;
+padding: 8px;
+text-align: center;
+}
+
+th{
+background-color: yellow;
+}
+nav{
+    border-radius: 100%;
+}
+
+#program{
+background-color: black;
+color:blue;
+padding:200px;
+margin: 200px;
+font-size: 50px;
+}
+
+
+#AboutMe{
+    text-align: center;
+}
+#AboutUs{
+    text-align: center;
+}
+#youtubev{
+    text-align: center;
+    font-size: 20px;
+}
+#whatcanyoudointhiswebsite{
+    text-align: center;
+}
+#welcomeinourwebsite{
+    text-align: center;
+    background-color: mediumaquamarine;
+    padding: 40px;
+}
+}
+#aboutwarandmarten{
+      text-align: center;
+}
+#thank{
+    text-align: center;
+    background-color: darkblue;
+    padding: 50px;
+    font-size: 50px;
+}
+
+
+
+
+#sustainablebLivingandgreenhouse{
+    background-color: red;
+border: 2px solid black;
+    color: blue;
+text-align: center;
+
+border-collapse: collapse;
+font-size: 30px;
+}
+
+
+
+#Welcome{
+    background-color: yellow;
+    padding: 30px;
+    text-align: center;
+   
+}
+#navre{
+   background-color: black;
+}
+#color{
+color:brown;
+}
+#program{
+display: inline-block;
+text-align: center;
+border-radius: 100%;
+margin: 30px;
+}
+#aboutus{
+    text-align: center;
+}
+#address{
+    text-align: center;
+}
+#PreciseLocation{
+    text-align: center;
+}
+#menu{
+    text-align: center;
+}
+#aboutwar{
+    font-family: 'Cairo', system-ui;
+}
+
+
+
+
